@@ -1,5 +1,5 @@
 # Motion-Detector
-Run all in ipynb and press "comand + a" through explaination of how this works
+Run all in ipynb and press "comand + q" through explaination of how this works
 
 
 <img width="1218" alt="Screenshot 2022-11-26 at 21 37 38" src="https://user-images.githubusercontent.com/62226642/204116939-f4766bd5-c44b-447e-92d5-7704093b7c61.png">
